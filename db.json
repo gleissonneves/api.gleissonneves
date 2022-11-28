@@ -1,17 +1,19 @@
-[
-  {
-    "id": 1,
-    "label": "Front-end",
-    "projects": [{}]
-  },
-  {
-    "id": 2,
-    "label": "UI design",
-    "projects": [{}]
-  },
-  {
-    "id": 3,
-    "label": "Outros",
-    "projects": [{}]
-  }
-]
+{
+  "list": [
+    {
+      "id": 1,
+      "label": "Front-end",
+      "projects": [{}]
+    },
+    {
+      "id": 2,
+      "label": "UI design",
+      "projects": [{}]
+    },
+    {
+      "id": 3,
+      "label": "Outros",
+      "projects": [{}]
+    }
+  ]
+}
